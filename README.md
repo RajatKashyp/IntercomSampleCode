@@ -13,5 +13,8 @@ In onPostExecute() method, the data is extracted. <br><br>
 NOTE: ConstantValue is used to convert degrees to kilometers. Values are rounded off to 0 decimal place.<br><br>
 4) Calculated Result is then checked. If result is less than 100km, IDs and names are then added in a list using Map class. <br><br>
 5) These values are then added in TreeMap to sort based on user IDs in ascending order. <br>
-Final sorted list is then printed.<br><br>
-- CustomMethods.java class consists of generic functions, like conversion of string to double, round off double, etc.
+Final sorted list is then printed.<br>
+- CustomMethods.java class consists of generic functions, like conversion of string to double, round off double, etc.<br>
+- activity_main.xml file is required for UI component of android system life cycle. <br>
+- AndroidManifest.xml file consists of the manifest file which has Internet/WIFI permissions etc. <br>
+- output_result.txt file consists of the output.

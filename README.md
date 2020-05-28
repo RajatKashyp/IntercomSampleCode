@@ -1,6 +1,8 @@
 # IntercomSampleCode
 The program is coded in Java for android using Android Studio 3.5.3.<br><br>
-Project consists of 4 .java files (including 1 test file).<br><br>
+Make a new android project in android studio and copy all .java files in the src/main/java/yourprojectname directory.<br>
+NOTE: copy calculateDistanceTest.java file in src/test/java/yourprojectname directory.<br><br>
+Project consists of 4 .java files (including 1 test file).<br>
 Programs initialises with MainActivity.java file in which onCreate() method runs automatically as per android activity life cycle.<br><br>
 MainActivity.java consists of main methods and method calls.<br><br>
 1) MainActivity.java first check for internet connection.<br>
